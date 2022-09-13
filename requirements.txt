@@ -42,7 +42,7 @@ pywikipedia==0.0.1
 
 regex==2021.4.4
 requests==2.25.1
-scipy==1.6.3
+
 seaborn==0.11.2
 six==1.16.0
 soupsieve==2.2.1
